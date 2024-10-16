@@ -1,2 +1,2 @@
 # Charla_cifrado
-Charla de encriptado en GPG y veracryot 
+Charla de encriptado en GPG y veracrypt 
